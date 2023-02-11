@@ -5,7 +5,7 @@ var config= {
     database:"RH",
     driver:"msnodesqlv8",
     user:"sa",
-    password:"Mis@0000",
+    password:"",
         options:{
             trustedConnection:true,
         }
